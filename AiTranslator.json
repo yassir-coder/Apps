@@ -3,9 +3,9 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "admob",
-        "InterstitialAd": "admob",
-        "NativeAd": "admob",
+        "BannerAd": "max",
+        "InterstitialAd": "max",
+        "NativeAd": "max",
 		
 	     "InterAdsAc1": "facebook",
 	     "InterAdsAc2": "admob",
