@@ -19,7 +19,7 @@
 		"MaxInter" : "afa097a70d3b9118",
 		"MaxNative" : "241139f233df9d5a",
 		
-        "Cpa": false,
+        "Cpa": true,
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
         "LinkCpa" : "https://cpabuild.com/"
 		
