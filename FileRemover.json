@@ -4,18 +4,18 @@
       {
 		  
         "BannerAd": "admob",
-        "InterstitialAd": "facebook",
+        "InterstitialAd": "max",
         "NativeAd": "max",	      	     
 	      
-	"InterImage": "admob",
-        "InterVideo": "facebook",
-        "InterAudio": "admob",
-        "InterDocs": "facebook",
+	"InterImage": "max",
+        "InterVideo": "max",
+        "InterAudio": "max",
+        "InterDocs":  "max",
         "InterOther": "max",
 		
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-9656443482471903/1136849436",
+        "InterAdmob":  "ca-app-pub-9656443482471903/8823767766",
+        "NativeAdmob": "ca-app-pub-9656443482471903/2948624552",
 	      
 	      "FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
         "FanInter":  "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
