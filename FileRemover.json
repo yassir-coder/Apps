@@ -7,7 +7,7 @@
         "InterstitialAd": "facebook",
         "NativeAd": "max",	      	     
 	      
-	      "InterImage": "admob",
+	"InterImage": "admob",
         "InterVideo": "facebook",
         "InterAudio": "admob",
         "InterDocs": "facebook",
@@ -22,8 +22,8 @@
         "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
 		
 		"MaxBanner" : "YOUR_AD_UNIT_ID",
-		"MaxInter" : "YOUR_AD_UNIT_ID",
-		"MaxNative" : "YOUR_AD_UNIT_ID",
+		"MaxInter" : "7d14d22ff4a6d297",
+		"MaxNative" : "36824858527a08db",
 				
         "Cpa": false,
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
