@@ -3,7 +3,7 @@
     "AdsController": 
       {
 		  
-        "CheckAds": "admob", 
+        "CheckAds": "fb", 
 	//   fb  || admob  || max
         
 	      "MyPromo": "yes",
@@ -22,7 +22,7 @@
 	     	"MAX_Native" : "YOUR_AD_UNIT_ID",
 		
         "interClick" : "3",
-        "ckickAds" : "0"
+        "ckickAds" : "1"
 		
       }	  
 	      }	  
