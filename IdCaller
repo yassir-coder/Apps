@@ -1,0 +1,29 @@
+{
+	  "GuideData": {
+    "AdsController": 
+      {
+		  
+        "CheckAds": "admob", 
+	//   fb  || admob  || max
+        
+	      "MyPromo": "yes",
+	      
+                "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",
+                "AdMob_Int": "ca-app-pub-3940256099942544/1033173712",
+	              "AdMob_NativeAdvance": "ca-app-pub-3940256099942544/2247696110",
+	              "AdMob_AppOpenAds": "ca-app-pub-3940256099942544/3419835294",
+
+	            "FB_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+              "FB_Int": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+              "FB_Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		
+	    	"MAX_Banner" : "YOUR_AD_UNIT_ID",
+	     	"MAX_Int" :  "YOUR_AD_UNIT_ID",
+	     	"MAX_Native" : "YOUR_AD_UNIT_ID",
+		
+        "interClick" : "3",
+        "ckickAds" : "0"
+		
+      }	  
+	      }	  
+	  }
