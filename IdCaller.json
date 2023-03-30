@@ -11,7 +11,9 @@
                       "AdMob_Banner": "ca-app-pub-9656443482471903/8646763663",
                       "AdMob_Int": "ca-app-pub-9656443482471903/2165115798",
 	              "AdMob_NativeAdvance": "ca-app-pub-9656443482471903/9660462431",
-	              "AdMob_AppOpenAds": "ca-app-pub-9656443482471903/6842727401",
+	              "AdMob_AppOpenAds": "",
+	      
+	      // ca-app-pub-9656443482471903/6842727401
 
 	            "FB_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
               "FB_Int": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
