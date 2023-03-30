@@ -4,14 +4,14 @@
       {
 		  
         "BannerAd": "admob",
-        "InterstitialAd": "max",
-        "NativeAd": "max",	      	     
+        "InterstitialAd": "admob",
+        "NativeAd": "admob",	      	     
 	      
-	"InterImage": "max",
-        "InterVideo": "max",
-        "InterAudio": "max",
-        "InterDocs":  "max",
-        "InterOther": "max",
+	"InterImage": "admob",
+        "InterVideo": "admob",
+        "InterAudio": "admob",
+        "InterDocs":  "admob",
+        "InterOther": "admob",
 		
         "BannerAdmob": "ca-app-pub-9656443482471903/1136849436",
         "InterAdmob":  "ca-app-pub-9656443482471903/8823767766",
