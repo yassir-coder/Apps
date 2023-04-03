@@ -3,7 +3,7 @@
     "AdsController": 
       {
 		  
-        "CheckAds": "max", 
+        "CheckAds": "admob", 
 	//   fb  || admob  || max
         
 	      "MyPromo": "no",
