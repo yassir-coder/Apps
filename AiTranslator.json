@@ -7,10 +7,10 @@
         "InterstitialAd": "admob",
         "NativeAd": "admob",
 		
-	     "InterAdsAc1": "admob",
-	     "InterAdsAc2": "admob",
-	     "InterAdsAc3": "admob",
-   	     "InterAdsAc4": "admob",
+	     "InterAdsAc1": "max",
+	     "InterAdsAc2": "max",
+	     "InterAdsAc3": "max",
+   	     "InterAdsAc4": "max",
 
        "BannerAdmob": "ca-app-pub-9656443482471903/6516550078",
         "InterAdmob": "ca-app-pub-9656443482471903/9676495062",
