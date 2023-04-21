@@ -4,7 +4,7 @@
       {
 		  
 			"BannerAd": "admob",
-			"InterstitialAd": "max",
+			"InterstitialAd": "admob",
 			"NativeAd": "admob",
 	      
                         "BannerAdmob": "ca-app-pub-9656443482471903/5698609657",
@@ -24,7 +24,7 @@
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
         "LinkCpa" : "https://cpabuild.com/",
 	      
-	 "intersitial_click_counter" : 2
+	 "intersitial_click_counter" : 3
 		
       }	  
 	      }	  
