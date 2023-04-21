@@ -4,8 +4,8 @@
       {
 		  
         "BannerAd": "facebook",
-        "InterstitialAd": "max",
-        "NativeAd": "max",
+        "InterstitialAd": "facebook",
+        "NativeAd": "facebook",
 
         "BannerAdmob": "ca-app-pub-9656443482471903/5698609657",
         "InterAdmob":  "ca-app-pub-9656443482471903/9978983059",
