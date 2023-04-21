@@ -3,27 +3,26 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "facebook",
-        "InterstitialAd": "facebook",
-        "NativeAd": "facebook",
-
-        "BannerAdmob": "ca-app-pub-9656443482471903/5698609657",
-        "InterAdmob":  "ca-app-pub-9656443482471903/9978983059",
-        "NativeAdmob": "ca-app-pub-9656443482471903/3605717219",
+			"BannerAd": "max",
+			"InterstitialAd": "facebook",
+			"NativeAd": "max",
 	      
-	      "FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
-        "FanInter": "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
-        "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
-		
-		"MaxBanner" : "",
-		"MaxInter" : "afa097a70d3b9118",
-		"MaxNative" : "241139f233df9d5a",
-		
+                        "BannerAdmob": "ca-app-pub-9656443482471903/5698609657",
+			"InterAdmob":  "ca-app-pub-9656443482471903/9978983059",
+			"NativeAdmob": "ca-app-pub-9656443482471903/3605717219",
+
+			"MaxBanner": "YOUR_AD_UNIT_ID",
+			"MaxInter": "afa097a70d3b9118",
+			"MaxNative": "241139f233df9d5a",
+	      
+	"FanBanner": "IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
+        "FanInter": "IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
+        "FanNative": "IMG_16_9_APP_INSTALL#6081906371842532_6081909341842235",
+        		
         "Cpa": false,
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
         "LinkCpa" : "https://cpabuild.com/"
 		
-	
       }	  
 	      }	  
 	  }
