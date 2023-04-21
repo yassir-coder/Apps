@@ -10,6 +10,7 @@
                         "BannerAdmob": "ca-app-pub-9656443482471903/5698609657",
 			"InterAdmob":  "ca-app-pub-9656443482471903/9978983059",
 			"NativeAdmob": "ca-app-pub-9656443482471903/3605717219",
+			"OpenAdmob":  "ca-app-pub-3940256099942544/3419835294",
 
 			"MaxBanner": "YOUR_AD_UNIT_ID",
 			"MaxInter": "afa097a70d3b9118",
@@ -21,7 +22,9 @@
         		
         "Cpa": false,
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
-        "LinkCpa" : "https://cpabuild.com/"
+        "LinkCpa" : "https://cpabuild.com/",
+	      
+	 "intersitial_click_counter" : 2
 		
       }	  
 	      }	  
