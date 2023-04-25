@@ -6,22 +6,22 @@
         "CheckAds": "max", 
 	//   fb  || admob  || max
         
-	      "MyPromo": "no",
+	      "MyPromo": "fb",
 	      
                       "AdMob_Banner": "ca-app-pub-9656443482471903/8646763663",
                       "AdMob_Int": "ca-app-pub-9656443482471903/2165115798",
 	              "AdMob_NativeAdvance": "ca-app-pub-9656443482471903/9660462431",
 	              "AdMob_AppOpenAds": "ca-app-pub-9656443482471903/6842727401",
 
-	            "FB_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-              "FB_Int": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-              "FB_Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	      "FB_Banner": "175638335423061_175639442089617",
+              "FB_Int":    "175638335423061_175639702089591",
+              "FB_Native": "175638335423061_175639932089568",
 		
 	    	"MAX_Banner" : "fc3d889ead099585",
 	     	"MAX_Int" :  "b13df9551d9ea1f2",
 	     	"MAX_Native" : "c26079070844e2d3",
 		
-        "interClick" : "3",
+        "interClick" : "2",
         "ckickAds" : "0"
 		
       }	  
