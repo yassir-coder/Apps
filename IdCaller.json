@@ -6,7 +6,7 @@
         "CheckAds": "max", 
 	//   fb  || admob  || max
         
-	      "MyPromo": "fb",
+	      "MyPromo": "no",
 	      
                       "AdMob_Banner": "ca-app-pub-9656443482471903/8646763663",
                       "AdMob_Int": "ca-app-pub-9656443482471903/2165115798",
