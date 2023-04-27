@@ -3,22 +3,22 @@
     "AdsController": 
       {
 		  
-			"BannerAd": "admob",
-			"InterstitialAd": "max",
-			"NativeAd": "max",
+			"BannerAd": "facebook",
+			"InterstitialAd": "facebook",
+			"NativeAd": "facebook",
 	      
-                        "BannerAdmob": "ca-app-pub-9656443482471903/5698609657",
-			"InterAdmob":  "ca-app-pub-9656443482471903/9978983059",
-			"NativeAdmob": "ca-app-pub-9656443482471903/3605717219",
-			"OpenAdmob":   "ca-app-pub-9656443482471903/8945100383",
+                        "BannerAdmob": "",
+			"InterAdmob":  "",
+			"NativeAdmob": "",
+			"OpenAdmob":   "",
 
 			"MaxBanner": "YOUR_AD_UNIT_ID",
 			"MaxInter": "afa097a70d3b9118",
 			"MaxNative": "241139f233df9d5a",
 	      
-	"FanBanner": "IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
-        "FanInter": "IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
-        "FanNative": "IMG_16_9_APP_INSTALL#6081906371842532_6081909341842235",
+	"FanBanner": "185052277754153_185052904420757",
+        "FanInter":  "185052277754153_185052984420749",
+        "FanNative": "185052277754153_185053067754074",
         		
         "Cpa": false,
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
