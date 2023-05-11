@@ -3,8 +3,8 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "facebook",
-        "NativeAd": "max",
+         "BannerAd": "facebook",
+         "NativeAd": "max",
 		
 	 "InterAdsAc1": "max",
 	 "InterAdsAc2": "max",
