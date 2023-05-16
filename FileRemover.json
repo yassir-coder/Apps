@@ -13,9 +13,9 @@
         "InterDocs":  "admob",
         "InterOther": "admob",
 		
-        "BannerAdmob": "ca-app-pub-9656443482471903/1136849436",
-        "InterAdmob":  "ca-app-pub-9656443482471903/8823767766",
-        "NativeAdmob": "ca-app-pub-9656443482471903/2948624552",
+        "BannerAdmob": "",
+        "InterAdmob":  "",
+        "NativeAdmob": "",
 	      
 	      "FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
         "FanInter":  "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
