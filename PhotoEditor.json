@@ -3,7 +3,7 @@
     "AdsController": 
       {
 		  
-			"BannerAd": "facebook",
+			"BannerAd": "max",
 			"InterstitialAd": "max",
 			"NativeAd": "max",
 	      
@@ -12,7 +12,7 @@
 			"NativeAdmob": "",
 			"OpenAdmob":   "",
 
-			"MaxBanner": "YOUR_AD_UNIT_ID",
+			"MaxBanner": "86fb741ea06427bb",
 			"MaxInter": "afa097a70d3b9118",
 			"MaxNative": "241139f233df9d5a",
 	      
