@@ -1,11 +1,11 @@
 {
     "GuideData": {
         "AdsController": {
-            "BannerAd": "max",
+            "BannerAd": "admob",
             "InterstitialAd": "facebook",
-            "NativeAd": "max",
+            "NativeAd": "facebook",
           
-            "MyPromo": "yes",
+            "MyPromo": "no",
           
             "FirstBanner": "max",
             "MainBanner": "facebook",
@@ -41,7 +41,7 @@
             "InterBtn29": "admob",
             "InterBtn30": "admob",
           
-            "FirstNative": "facebook",
+            "FirstNative": "admob",
             "MainNative": "max",
           
             "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
